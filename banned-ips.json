@@ -1,0 +1,44 @@
+[
+  {
+    "ip": "167.249.88.2",
+    "created": "2019-02-25 20:09:46 -0300",
+    "source": "zSh4dow_001",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "45.225.236.207",
+    "created": "2019-02-25 20:10:36 -0300",
+    "source": "zSh4dow_001",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "177.87.190.1",
+    "created": "2019-02-25 23:20:35 -0300",
+    "source": "zSh4dow_001",
+    "expires": "forever",
+    "reason": "Nos detectamos tudo meu bem."
+  },
+  {
+    "ip": "200.195.38.212",
+    "created": "2019-02-25 20:10:40 -0300",
+    "source": "zSh4dow_001",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "177.84.125.214",
+    "created": "2019-02-25 23:17:52 -0300",
+    "source": "zSh4dow_001",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "187.95.82.175",
+    "created": "2019-02-25 20:09:52 -0300",
+    "source": "zSh4dow_001",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
